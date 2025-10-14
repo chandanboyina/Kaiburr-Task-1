@@ -14,5 +14,5 @@ spring.data.mongodb.uri=mongodb+srv://<username>:<password>@<cluster_url>/<datab
 ```
 **5. Run**
 ```bash
-    ./mvnw spring-boot:run
+./mvnw spring-boot:run
 ```
