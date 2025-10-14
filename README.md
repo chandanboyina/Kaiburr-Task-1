@@ -6,7 +6,7 @@ git clone [your_repository_url]
 ```
 **3. Navigate to the project Directory**
 ```bash
-cd [your_repository_name]
+cd [Kaiburr-Task-1]
 ```
 **4. Configure MongoDB**
 ```bash
