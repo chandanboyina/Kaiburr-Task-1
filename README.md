@@ -1,5 +1,4 @@
 ## compile and run
----
 **1. Prerequisites: Ensure you have Java (JDK 17 or higher) and Maven installed on your system.**
 
 **2. Clone the Repository**
