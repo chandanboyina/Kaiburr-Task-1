@@ -2,7 +2,7 @@
 **1. Prerequisites: Ensure you have Java (JDK 17 or higher) and Maven installed on your system.**
 **2. Clone the Repository**
 ```bash
-git clone [your_repository_url]
+git clone [https://github.com/chandanboyina/-Kaiburr-Task-1]
 ```
 **3. Navigate to the project Directory**
 ```bash
