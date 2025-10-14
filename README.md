@@ -18,8 +18,8 @@ spring.data.mongodb.uri=mongodb+srv://<username>:<password>@<cluster_url>/<datab
 ./mvnw spring-boot:run
 ```
 ## Endpoints 
-**1. GET Request**
+*1. GET Request*
 
-***GET task by id***
-### HomePage
-![Homepage](https://github.com/chandanboyina/Ai-Saas-Chatbot/blob/main/Homepage.jpg)
+**GET task by id**
+
+![Homepage](https://github.com/chandanboyina/Kaiburr-Task-1/blob/main/get%20tasks%20by%20id.jpeg)
