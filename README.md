@@ -1,5 +1,18 @@
 ## compile and run
-**1. Clone the Repository: Clone the project from GitHub using the following command:**
+**1. Prerequisites: Ensure you have Java (JDK 17 or higher) and Maven installed on your system.**
+**2. Clone the Repository**
 ```bash
 git clone [your_repository_url]
+```
+**3. Navigate to the project Directory**
+```bash
+cd [your_repository_name]
+```
+**4. Configure MongoDB**
+```bash
+spring.data.mongodb.uri=mongodb+srv://<username>:<password>@<cluster_url>/<database_name>?retryWrites=true&w=majority&appName=<Cluster_name>
+```
+**5. Run**
+```bash
+    ./mvnw spring-boot:run
 ```
