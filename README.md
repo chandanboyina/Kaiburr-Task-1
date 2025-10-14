@@ -18,8 +18,24 @@ spring.data.mongodb.uri=mongodb+srv://<username>:<password>@<cluster_url>/<datab
 ./mvnw spring-boot:run
 ```
 ## Endpoints 
-### 1. GET Request
+*1. GET Request*
 
 **GET task by id**
 
 ![Homepage](https://github.com/chandanboyina/Kaiburr-Task-1/blob/main/get%20tasks%20by%20id.jpeg)
+
+*2. PUT Request*
+
+**creating a task**
+
+![Homepage](https://github.com/chandanboyina/Kaiburr-Task-1/blob/main/put%20request.jpeg)
+
+*3. DELETE Request*
+
+**DELETE task by id **
+
+![Homepage](https://github.com/chandanboyina/Kaiburr-Task-1/blob/main/delete%20task%20by%20id.jpeg)
+
+
+
+
