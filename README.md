@@ -36,6 +36,9 @@ spring.data.mongodb.uri=mongodb+srv://<username>:<password>@<cluster_url>/<datab
 
 ![Homepage](https://github.com/chandanboyina/Kaiburr-Task-1/blob/main/delete%20task%20by%20id.jpeg)
 
+*4. PUT task Execution by id*
+![HomePage](https://github.com/chandanboyina/Kaiburr-Task-1/blob/main/taskexecution.jpeg)
+
 
 
 
