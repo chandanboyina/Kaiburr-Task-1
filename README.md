@@ -32,6 +32,10 @@ spring.data.mongodb.uri=mongodb+srv://<username>:<password>@<cluster_url>/<datab
 
 ![Homepage](https://github.com/chandanboyina/Kaiburr-Task-1/blob/main/get%20tasks%20by%20id%20(404%20not%20found.jpeg)
 
+**GET Request task by name not found(404 not found)**
+
+![Homepage](https://github.com/chandanboyina/Kaiburr-Task-1/blob/main/get%20tasks%20by%20id%20(404%20not%20found.jpeg)
+
 *2. PUT Request*
 
 **creating a task**
