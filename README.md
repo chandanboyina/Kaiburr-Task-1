@@ -30,11 +30,11 @@ spring.data.mongodb.uri=mongodb+srv://<username>:<password>@<cluster_url>/<datab
 
 **GET Request task id not found(404 Not Found)**
 
-![Homepage](https://github.com/chandanboyina/Kaiburr-Task-1/blob/main/get%20tasks%20by%20id%20(404%20not%20found.jpeg)
+![Homepage](https://github.com/chandanboyina/Kaiburr-Task-1/blob/main/get%20task%20by%20name%20(404not%20found).jpeg)
 
 **GET Request task by name not found(404 not found)**
 
-![Homepage](https://github.com/chandanboyina/Kaiburr-Task-1/blob/main/get%20tasks%20by%20id%20(404%20not%20found.jpeg)
+![Homepage](https://github.com/chandanboyina/Kaiburr-Task-1/blob/main/get%20task%20by%20name%20(404not%20found).jpeg)
 
 *2. PUT Request*
 
