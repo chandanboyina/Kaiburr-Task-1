@@ -1,4 +1,12 @@
-## compile and run
+# Kaiburr Task 1: Java Backend and REST API
+
+This repository contains the solution for Kaiburr Assessment Task 1, which involves building a Java backend application with a REST API and a MongoDB database.
+
+
+
+---
+
+## Compile and run application
 **1. Prerequisites: Ensure you have Java (JDK 17 or higher) and Maven installed on your system.**
 
 **2. Clone the Repository**
